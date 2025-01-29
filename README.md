@@ -15,5 +15,5 @@ Following tasks are performed.
 instant, dteday, registered and casual columns are not considered for the analysis.
 
 
-#Contact
+# Contact
 For further information about this dataset please contact Ameya Parab (ameya.parab@gmail.com)
