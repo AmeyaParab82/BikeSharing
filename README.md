@@ -1,14 +1,15 @@
 # BikeSharing
 This is assignment to predict a demand for bike sharing based on linear regression.
+
 Following tasks are performed.
-1] Data cleaning
-2] Data visualization and exploration
-3] Data Preparation
-4] Building model with linear regression with hybrid approach (RFE+manual)
-5] Residual analysis
-6] Predictions
-7] Model evaluation
-8] Final assessment
+- Data cleaning
+- Data visualization and exploration
+- Data Preparation
+- Building model with linear regression with hybrid approach (RFE+manual)
+- Residual analysis
+- Predictions
+- Model evaluation
+- Final assessment
 
 
 # Dataset
